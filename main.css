@@ -44,10 +44,6 @@ ol > li:last-of-type {
     color: #2aa198;
 }
 
- {
-    background-color: #657ba3;
-}
-
 .types li:nth-child(2n+2) { /*odd li*/
     background-color: #657ba3;
 }
