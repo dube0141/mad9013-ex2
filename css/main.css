@@ -17,7 +17,7 @@ nav > ul {
     background-color: #eee8d5;
 }
 
-contents, favs, facts, types {
+#contents, #favs, #facts, #types {
     color: #93a1a1;
 }
 
@@ -28,7 +28,7 @@ p + strong{
     color:#fff;
 }
 
-#mark1 { /* Not 100% sure */
+mark { 
      background-color: #719e07;
 }
 
@@ -42,10 +42,6 @@ ol > li:first-of-type {
 
 ol > li:last-of-type {
     color: #2aa198;
-}
-
- {
-    background-color: #657ba3;
 }
 
 .types li:nth-child(2n+2) { /*odd li*/
